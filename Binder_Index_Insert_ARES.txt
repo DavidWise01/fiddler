@@ -1,0 +1,14 @@
+BINDER INDEX INSERT — ARES (Router AI Attack Model)
+
+Add the following under Volume II — Mode Specifications:
+- ARES — Router AI Attack Model (Adversarial Testing / Security Validation) .......... p. ____
+
+Add the following under Appendix H — Table of Contents:
+- ARES Mode Spec (v1.0) ............................................................. p. ____
+- ARES Test Suite (Single-Turn) ..................................................... p. ____
+- ARES Test Suite (Multi-Turn) ...................................................... p. ____
+- ARES Runner Harness (Operational) ................................................. p. ____
+- ARES Results & KPI Report ......................................................... p. ____
+
+Recommended Divider Placement:
+- Place ARES immediately after NUCLEI Mode (Volume II) OR as a standalone Appendix section.

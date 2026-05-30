@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use IDIT, please cite it as below."
+authors:
+  - family-names: Wise
+    given-names: David
+title: "Intent Drift Integrity Test (IDIT)"
+version: "1.0.0"
+date-released: 2025-12-25
+url: "https://github.com/<your-username>/idit"
+abstract: "A governance integrity test for detecting unauthorized behavioral change in AI systems relative to declared modes, rules, and user intent."
+license: "Custom; free with attribution for non-commercial and internal use; commercial use by permission."

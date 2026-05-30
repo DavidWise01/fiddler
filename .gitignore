@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+ares_results.jsonl
+ares_results_multiturn.jsonl
+.DS_Store
+Thumbs.db
